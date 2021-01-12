@@ -35,11 +35,12 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 <br/>
-
+```javascript
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+```
 ---
 
 <br/>
-  <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
   <h2 align="center"> Github Statistics 📈 </h2>
   
   <div align="center"> 
