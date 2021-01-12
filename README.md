@@ -49,7 +49,12 @@
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LughWalle&theme=react&line_height=40&hide=css"/>
     </a>
-</div
+</div>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="lucival-dos-santos-frança-filho-1714031b1">
+  <a class="LI-simple-link" href='https://br.linkedin.com/in/lucival-dos-santos-fran%C3%A7a-filho-1714031b1?trk=profile-badge'>
+    Lucival dos Santos França Filho
+  </a>
+</div>
   
 <br/>
 
