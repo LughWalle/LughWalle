@@ -28,7 +28,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=mysql&logoColor=ffffff)
+![My SQL](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=mysql&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-mongo%20DB-3f2e1e?style=flat-square&logo=mongoDB&logoColor=4c8e44)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
