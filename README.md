@@ -2,10 +2,10 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## Desenvolvedor Web, Front-End, caminhando para o Full-Stack
+## Desenvolvedor Web
 
 - 👨‍💻 Não estou trabalhando no momento.
-- 📚 Atualmente estudo tecnologias de Frontend e Backend, HTML, CSS, JS, ReactJS, Banco de Dados, etc 😅
+- 📚 Estudei na Trybe entre 2020 e 2021, aprendi tecnologias de Frontend e Backend e Ciência da Computação, HTML, CSS, JS, ReactJS, Banco de Dados, Python, etc 😅
 - 💪🏼 Minhas metas futuras: Continuar em constante estudo para acompanhar as tecnologias.
 - ⚡ quem eu sou: amante da leitura e da ciência, curioso por natureza.
 
@@ -34,6 +34,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-007ACC?style=flat-square&logo=linux&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-Python-fff200?style=flat-square&logo=python)
 
 
 <br/>
