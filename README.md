@@ -4,8 +4,9 @@
 
 ## Desenvolvedor Web
 
-- 👨‍💻 Associate Software Engineer @ Jungle Devs.
+- 👨‍💻 Em busca de oportunidades
 - 📚 Estudei na Trybe entre 2020 e 2021, aprendi tecnologias de Frontend e Backend e Ciência da Computação, HTML, CSS, JS, ReactJS, Banco de Dados, Python, etc 😅
+- 👷‍♂️ Em minhas experiencias proficionais pude desenvolver melhor minhas hard skills além de aprender novas, como nextJS e TypeScript
 - 💪🏼 Minhas metas futuras: Continuar em constante estudo para acompanhar as tecnologias.
 - ⚡ quem eu sou: amante da leitura e da ciência, curioso por natureza.
 
@@ -25,6 +26,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/typescript--%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-bf4080?style=flat-square&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=ffffff)
