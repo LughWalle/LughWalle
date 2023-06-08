@@ -4,7 +4,7 @@
 
 - 👨‍💻 Em busca de oportunidades
 - 📚 Estudei na Trybe entre 2020 e 2021, aprendi tecnologias de Frontend e Backend e Ciência da Computação, HTML, CSS, JS, ReactJS, Banco de Dados, Python, etc 😅
-- 👷‍♂️ Em minhas experiencias proficionais pude desenvolver melhor minhas hard skills além de aprender novas, como nextJS e TypeScript
+- 👷‍♂️ Em minhas experiencias profissionais pude desenvolver melhor minhas hard skills além de aprender novas, como nextJS e TypeScript
 - 💪🏼 Minhas metas futuras: Continuar em constante estudo para acompanhar as tecnologias.
 - ⚡ quem eu sou: amante da leitura e da ciência, curioso por natureza.
 
